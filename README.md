@@ -4,7 +4,7 @@
 [![Demo Video](https://img.youtube.com/vi/LI7W1GFMf9M/0.jpg)](https://www.youtube.com/watch?v=LI7W1GFMf9M)
 
 ## Main-Page 
-![alt text](image.png)
+<width="907" alt="Screenshot 2024-05-16 at 2 33 25 AM" src="https://github.com/gio0123/Giovanni-Rofa-Project-Pink-Aid/assets/166750257/e6b0a07a-fab8-413f-a48f-c0ce039c8595"><img width="907" alt="Screenshot 2024-05-16 at 2 33 25 AM" src="https://github.com/gio0123/Giovanni-Rofa-Project-Pink-Aid/assets/166750257/e6b0a07a-fab8-413f-a48f-c0ce039c8595">
 
 ## Overview
 This AI generated chatbot is designed to assit homeless Veterans 24/7 with finding local housing options.
@@ -53,5 +53,9 @@ Benifits of Project Pink Aid:
 
  
 The Project Pink Aid is the proof of our commitment to those who have served for our country, by merging technology with compassion and positivity. Collectively, we will be able to change the lives of homeless veterans for the better.
-![alt text](LOGO.webp)
+
+## Logo
+<img width="490" alt="Screenshot 2024-05-16 at 2 32 33 AM" src="https://github.com/gio0123/Giovanni-Rofa-Project-Pink-Aid/assets/166750257/b9a8db52-083d-44ad-8b05-eae688926dd5">
+
+
 
